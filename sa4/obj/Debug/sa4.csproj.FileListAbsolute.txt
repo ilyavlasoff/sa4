@@ -1,0 +1,10 @@
+C:\Users\iljav\source\repos\sa4\sa4\bin\Debug\sa4.exe.config
+C:\Users\iljav\source\repos\sa4\sa4\bin\Debug\sa4.exe
+C:\Users\iljav\source\repos\sa4\sa4\bin\Debug\sa4.pdb
+C:\Users\iljav\source\repos\sa4\sa4\obj\Debug\sa4.csprojAssemblyReference.cache
+C:\Users\iljav\source\repos\sa4\sa4\obj\Debug\sa4.Form1.resources
+C:\Users\iljav\source\repos\sa4\sa4\obj\Debug\sa4.Properties.Resources.resources
+C:\Users\iljav\source\repos\sa4\sa4\obj\Debug\sa4.csproj.GenerateResource.cache
+C:\Users\iljav\source\repos\sa4\sa4\obj\Debug\sa4.exe
+C:\Users\iljav\source\repos\sa4\sa4\obj\Debug\sa4.pdb
+C:\Users\iljav\source\repos\sa4\sa4\obj\Debug\sa4.manual.resources
